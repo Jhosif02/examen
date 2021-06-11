@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+
+* {
+	margin:3px;
+	padding:3px;
+	box-sizing:border-box;
+}
+
+body {
+	font-family:"Open Sans", Helvetica, Arial, sans-serif;
+	font-weight:300;
+	font-size: 12px;
+	line-height:30px;
+	/* color: MI COLOR O IMAGEN; */
+	color:black;
+	/* background: MI COLOR O IMAGEN; */
+	background:lightblue;
+	text-align:center;
+}
+
+.container {
+	max-width:400px;
+	width:100%;
+	margin:0 auto;
+	position:relative;
+}
+
+/* todo el formulario */
+#formulario {
+	background:white;
+}
+
+#formulario h3 {
+	border:black;
+}
+
+#formulario h4 {
+	
+}
+
+fieldset {
+	border: medium none !important;
+	
+}
+
+#formulario .entrada {
+	
+}
+
+#formulario textarea {
+	
+}
+
+#formulario button {
+	cursor:pointer;
+	
+}
+
